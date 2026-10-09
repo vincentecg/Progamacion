@@ -1,3 +1,5 @@
+package com.ejercicios;
+
 import java.util.Scanner;
 
 // Ejercicio 4: divide dos números; si el divisor es 0 muestra un error.

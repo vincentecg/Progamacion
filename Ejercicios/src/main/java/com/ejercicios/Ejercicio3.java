@@ -1,3 +1,5 @@
+package com.ejercicios;
+
 import java.util.Scanner;
 
 // Ejercicio 3: pide un número e indica si es par o impar.

@@ -1,3 +1,5 @@
+package com.ejercicios;
+
 import java.util.Scanner;
 
 // Ejercicio 1: recibe dos números e indica cuál es mayor o si son iguales.

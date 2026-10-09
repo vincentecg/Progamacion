@@ -1,3 +1,5 @@
+package com.ejercicios;
+
 import java.util.Scanner;
 
 // Ejercicio 6: lee una cadena y comprueba si es una letra mayúscula.

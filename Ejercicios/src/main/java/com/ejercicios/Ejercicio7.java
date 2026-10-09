@@ -1,3 +1,5 @@
+package com.ejercicios;
+
 import java.util.Scanner;
 
 // Ejercicio 7: calcula la potencia de un número dado su exponente.
